@@ -1,0 +1,10 @@
+{
+    "@@locale": "tr",
+    "income": "Gelir",
+    "expense": "Gider",
+    "balance": "Bakiye",
+    "select_currency": "Para Birimi Seç",
+    "update": "Güncelle",
+    "select_language": "Dil Seç"
+  }
+  

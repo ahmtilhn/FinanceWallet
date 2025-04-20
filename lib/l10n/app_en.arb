@@ -1,0 +1,10 @@
+{
+    "@@locale": "en",
+    "income": "Income",
+    "expense": "Expense",
+    "balance": "Balance",
+    "select_currency": "Select Currency",
+    "update": "Update",
+    "select_language": "Select Language"
+  }
+  
